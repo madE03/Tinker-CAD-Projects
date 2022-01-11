@@ -1,3 +1,4 @@
+//Code for counting the number of button pushes and displaying the output as a binary number
 #include <math.h>
 void setup()
 {
