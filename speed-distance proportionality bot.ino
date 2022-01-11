@@ -1,4 +1,4 @@
-  
+//Arduino code to program the working of a ultrasonic sensor based robot whose speed decreases as it nears the obstacle  
 void setup()
 {
   pinMode(3,OUTPUT);
